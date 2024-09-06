@@ -2,7 +2,7 @@
 
 <!---comentario,sere para esconder ou ocultar dados --->
 ![](https://giffiles.alphacoders.com/221/221968.gif)
-
+ 
 # Sobre mim
 - 👋 **Ola,eu sou @ManoGustah**
 - 👀 Eu estou interressado em aprender novas linguagens de progamação ...
