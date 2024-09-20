@@ -17,3 +17,4 @@ ManoGustah/ManoGustah is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![](https://64.media.tumblr.com/ba0133d53401fb2939826d3e200dfc15/18a0513953268126-4b/s540x810/d999ccae335306fe9ddcc0e0cab5bb0dc06e026a.gif)
